@@ -1,0 +1,3 @@
+#define SECRET_SSID "ONEPLUS 8 SK"  //Enter WIFI NAME
+#define SECRET_PASS "asdf1234"  //Enter WIFI PASSWORD
+#define SECRET_DEVICE_KEY "QFDERIOZMZB9EUEP52JU"  //Enter Secret Key
